@@ -1,0 +1,9 @@
+let myCode : String = "Begginer"
+let myAge : Int = 11
+
+var code = yes
+code = no
+
+if code == no {
+print("No code")
+}
